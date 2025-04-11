@@ -6,7 +6,7 @@
 
 <p align="center">
   Meteorologista com foco em análise de dados observacionais. <br>
-  Compartilho códigos, ideias e visualizações voltadas à meteorologia e ciências ambientais.
+  Compartilho códigos, ideias e visualizações voltadas à meteorologia e geociências.
 </p>
 
 <p align="center">
