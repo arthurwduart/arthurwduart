@@ -12,7 +12,7 @@ I love turning complex environmental data into visual stories.
 - 🎓 Mestrando em Meteorologia pelo INPE.
 - 🧪 Trabalho com o modelo WRF e utilizo algumas linguagens de programação: Python, R, Fortran e Shell Script.
 - 🌍 Visualizo dados geoespaciais com o QGIS.
-- 🧠 Alguns projetos estão aqui, outros [nesta página pessoal]([https://sua-pagina.com](https://arthurwduart.github.io/arthur-duarte.github.io//)) (mais vindo aí 🚀) 
+- 🧠 Alguns projetos estão aqui, outros [nesta página pessoal](https://arthurwduart.github.io/arthur-duarte.github.io/) (mais vindo aí 🚀) 
 
 ### 🛠️ Ferramentas que uso no dia a dia
 
