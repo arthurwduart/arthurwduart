@@ -1,7 +1,4 @@
-## Oiii, eu sou o Arthur, meteorologista e desenvolvedor apaixonado por ciência e tecnologia! ⛅💻
-
-Pessoal que veio atrás do **GitHub Stats**: a API pode estar fora do ar temporariamente,  
-mas você pode adicionar a sua própria seguindo este [tutorial](https://github.com/anuraghazra/github-readme-stats/issues/2112).
+## Olá, eu sou o Arthur, meteorologista e aluno de mestrado no INPE ⛅💻
 
 ---
 
