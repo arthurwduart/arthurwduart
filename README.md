@@ -1,4 +1,8 @@
 ## Olá, eu sou o Arthur — meteorologista 🌦️🛰️
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 Trabalho com análise observacional atmosférica, modelagem numérica e assimilação de dados.  
 ---
