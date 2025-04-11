@@ -40,8 +40,3 @@ Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias 
   </a>
 </p>
 
-
-![Snake animation](https://github.com/arthurwduart/arthurwduart/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=arthurwduart&repo=arthurwduart&theme=react)](https://github.com/arthurwduart/arthurwduart)
-
