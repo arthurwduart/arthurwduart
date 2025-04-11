@@ -2,10 +2,17 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## Olá, eu sou o Arthur — meteorologista 🌦️🛰️
+### Olá, pessoal 👋
 
-Trabalho com análise observacional atmosférica, modelagem numérica e assimilação de dados.  
----
+Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias e códigos voltados à análise de dados observacionais.
+I love turning complex environmental data into visual stories.
+
+- 🌩️ Atualmente estudando o uso da assimilação de dados de radiossondas sobre a região da Confluência Brasil-Malvinas (CBM). 
+- 📍 Brasileiro
+- 🎓 Mestrando em Meteorologia pelo INPE.
+- 🧪 Trabalho com o modelo WRF e utilizo algumas linguagens de programação: Python, R, Fortran e Shell Script.
+- 🌍 Visualizo dados geoespaciais com o QGIS.
+- 🧠 Alguns projetos estão aqui, outros [nesta página pessoal]([https://sua-pagina.com](https://arthurwduart.github.io/arthur-duarte.github.io//)) (mais vindo aí 🚀) 
 
 ### 🛠️ Ferramentas que uso no dia a dia
 
