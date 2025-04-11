@@ -29,26 +29,16 @@ Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias 
   <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" /></a>
 </p>
 
----
-
 ### 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://www.instagram.com/arthurwduarte" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/arthurwduarte" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+
 </p>
 
-###
 
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-###
 
 
 
