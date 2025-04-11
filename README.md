@@ -1,17 +1,15 @@
-## Olá, eu sou o Arthur, meteorologista e aluno de mestrado no INPE ⛅💻
+## Olá, eu sou o Arthur — meteorologista 🌦️🛰️
 
+Trabalho com análise observacional atmosférica, modelagem numérica e assimilação de dados.  
 ---
 
-### 🚀 Tecnologias que uso
+### 🛠️ Ferramentas que uso no dia a dia
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Fortran_logo.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" width="40" />
 </p>
 
 ---
@@ -26,4 +24,3 @@
   <a href="mailto:arthur@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/arthur-meteorologista" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
