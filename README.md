@@ -35,10 +35,12 @@ Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias 
   <a href="https://www.instagram.com/arthurwduarte" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-
 </p>
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthurwduarte" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
 
 
 
