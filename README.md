@@ -36,5 +36,5 @@ Sou Arthur, meteorologista, e uso este espaço para compartilhar ideias e códig
   </a>
 </p>
 
-![Snake animation](https://github.com/arthurwduart/arthurwduart/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/art/arthurwduart/blob/output/github-contribution-grid-snake.svg)
 
