@@ -8,8 +8,7 @@ Trabalho com análise observacional atmosférica, modelagem numérica e assimila
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Fortran_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 </p>
 
 ---
