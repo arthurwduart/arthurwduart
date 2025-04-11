@@ -5,7 +5,6 @@
 ### Olá, pessoal 👋
 
 Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias e códigos voltados à análise de dados observacionais.
-I love turning complex environmental data into visual stories.
 
 - 🌩️ Atualmente estudando o uso da assimilação de dados de radiossondas sobre a região da Confluência Brasil-Malvinas (CBM). 
 - 📍 Brasileiro
@@ -36,8 +35,7 @@ I love turning complex environmental data into visual stories.
 ### 🌐 Onde me encontrar
 
 <p>
-  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/arthurwduarte/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:arthur@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
