@@ -4,7 +4,7 @@
 
 ### Olá, pessoal 👋
 
-Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias e códigos voltados à análise de dados observacionais.
+Sou Arthur, meteorologista, e uso este espaço para compartilhar ideias e códigos voltados à análise de dados observacionais.
 
 - 🧠 Alguns projetos estão aqui, outros [nesta página pessoal](https://arthurwduart.github.io/arthur-duarte.github.io/) (mais vindo aí 🚀) 
 
