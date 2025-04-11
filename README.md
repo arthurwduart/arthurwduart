@@ -34,11 +34,11 @@ Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias 
 ### 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://instagram.com/arthurwduarte/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/arthurwduarte/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurwduarte-instagram" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/arthurwduarte/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-linkedin" height="30" width="40" />
   </a>
 </p>
 
