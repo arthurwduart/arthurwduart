@@ -43,15 +43,6 @@ Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias 
 </p>
 
 
-<h3 align="left">Social Media:</h3>
-<p align="left">
-<a href="https://www.instagram.com/arthurwduarte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.s
-vg" alt="cissagatto" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arthurwduarte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/li
-nked-in-alt.svg" alt="elainececiliagatto" height="30" width="40" /></a>
-
-
-
 ###
 
 <br clear="both" />
