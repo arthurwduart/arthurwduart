@@ -10,20 +10,9 @@ Trabalho com análise observacional atmosférica, modelagem numérica e assimila
 ### 🛠️ Ferramentas que uso no dia a dia
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" /></a>
-  <a href="https://fortran-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Fortran_logo.svg" width="40" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /></a>
-  <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" width="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /></a>
 </p>
 
