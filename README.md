@@ -41,13 +41,6 @@ Sou Arthur, meteorologista formado, e uso este espaço para compartilhar ideias 
 </p>
 
 
-<div>
-  <a href="https://github.com/arthurwduart">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=arthurwduart&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwduart&layout=compact&langs_count=7&theme=react" />
-  </a>
-</div>
-
 ![Snake animation](https://github.com/arthurwduart/arthurwduart/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=arthurwduart&repo=arthurwduart&theme=react)](https://github.com/arthurwduart/arthurwduart)
