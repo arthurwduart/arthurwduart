@@ -15,7 +15,7 @@
 
 ---
 
-<h4 align="center">🛠️ Ferramentas</h4>
+<h4 align="center">🛠️ Ferramentas:</h4>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></a>
@@ -24,7 +24,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/></a>
 </p>
 
-<h4 align="center">💻 Ambientes</h4>
+<h4 align="center">💻 Ambientes:</h4>
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/></a>
@@ -32,7 +32,7 @@
   <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="35"/></a>
 </p>
 
-<h4 align="center">🌐 Redes Sociais</h4>
+<h4 align="center">🌐 Redes Sociais:</h4>
 
 <p align="center">
   <a href="https://www.instagram.com/arthurwduarte" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/></a>
