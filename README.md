@@ -1,7 +1,7 @@
 **OLÁ !**  
 Me chamo Arthur Duarte, sou cientista atmosférico.
 
-- 🔭 Atualmente faço mestrado em Meteorologia no [INPE/CPTEC](https://www.gov.br/inpe/pt-br)
+- 🌩️ Atualmente faço mestrado em Meteorologia no [INPE/CPTEC](https://www.gov.br/inpe/pt-br)
 - :pushpin: São Paulo, Brazil
 - 📫 Minha página pessoal: [ACESSE](https://arthurwduart.github.io/arthur-duarte.github.io/)
 
